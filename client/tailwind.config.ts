@@ -14,7 +14,7 @@ const config: Config = {
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
       colors: {
-        "picton-blue": {
+        picton: {
           "50": "#eff9ff",
           "100": "#def2ff",
           "200": "#b6e8ff",
